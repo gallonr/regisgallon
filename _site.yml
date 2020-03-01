@@ -2,23 +2,35 @@ name: "Régis GALLON"
 output_dir: "docs"
 navbar:
   title: "Régis GALLON"
-  description : Maître de conférences (assistant professor) au Cnam/Intechmer
-  
+  description : "Maître de conférences (assistant professor) au Cnam/Intechmer"
   left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
     - text: "Enseignements"
+      icon: fa-chalkboard-teacher
       href: enseignement.html
     - text: "Recherches"
+      icon: fa-seedling
       href: recherche.html
     - text: "Publications"
+      icon: fa-newspaper
       href: publication.html
+    - text: "G2Sd"
+      menu:
+        - text: "Aide"
+          href: g2sd_aide.html
+        - text: "Shiny"
+          href: https://shiny.cnam.fr/G2Sd/
   right:
     - icon: fa-envelope
       href: mailto:regis.gallon@lecnam.net
     - icon: fa-github
       href: https://github.com/gallonr/
+    - icon: fa-researchgate
+      href: https://www.researchgate.net/profile/Regis_Gallon2
       
 output:
   html_document:
-    theme: cosmo
+    theme: paper
     df_print: kable
-    fig_caption: yes
