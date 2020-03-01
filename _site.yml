@@ -27,7 +27,7 @@ navbar:
       href: mailto:regis.gallon@lecnam.net
     - icon: fa-github
       href: https://github.com/gallonr/
-    - icon: fa-researchgate
+    - icon: fa-search
       href: https://www.researchgate.net/profile/Regis_Gallon2
       
 output:
