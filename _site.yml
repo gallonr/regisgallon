@@ -4,16 +4,16 @@ navbar:
   title: "Régis GALLON"
   description : "Maître de conférences (assistant professor) au Cnam/Intechmer"
   left:
-    - text: "Home"
+    - text: "HOME"
       icon: fa-home
       href: index.html
-    - text: "Enseignements"
+    - text: "ENSEIGNEMENTS"
       icon: fa-chalkboard-teacher
       href: enseignement.html
-    - text: "Recherches"
+    - text: "RECHERCHES"
       icon: fa-seedling
       href: recherche.html
-    - text: "Publications"
+    - text: "PUBLICATIONS"
       icon: fa-newspaper
       href: publication.html
     - text: "G2Sd"
