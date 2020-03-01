@@ -1,5 +1,13 @@
 lang: fr
-theme: jekyll-theme-architect
 title: Régis GALLON
+description: Maître de conférences (assistant professor) au Cnam/Intechmer
 email: regis.gallon@lecnam.net
-description: [A short description of your site's purpose]
+
+gems:
+  - jekyll-seo-tag
+google_analytics: true
+
+
+
+theme: jekyll-theme-architect
+
