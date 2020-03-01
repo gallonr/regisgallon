@@ -6,6 +6,7 @@ title: ""
 <div class=col2>
 
 <img src="img/portrait.png" style="height:300px;width:200px;border-radius: 30%;" class="center">
+<br>
 
 Je suis maitre de conférences (assistant professor) en biologie végétale et biostatistique au [Cnam-Intechmer](http://www.intechmer.cnam.fr/intechmer/) à Cherbourg. Je suis rattaché au [LUSAC](http://lusac.unicaen.fr) pour mes recherches en écologie benthique.
 <br>
