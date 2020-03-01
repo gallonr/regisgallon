@@ -1,5 +1,35 @@
 ---
-title: "test"
+title: ""
 ---
+<br>
+<br>
 
-#Test
+
+> J'enseigne principalement aux étudiants de la formation "Cadre Technique" 
+
+
+#### **1ère Année**
+
+- [**STM002 Biologie cellulaire**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/biologie-cellulaire-740355.kjsp?RF=1491308244111) : Sexualité végétale et reproduction
+
+#### **2ème Année**
+
+- [**STM012 Mesures *in situ* - Métrologie**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/mesures-in-situ-et-metrologie-740365.kjsp?RF=1491308244111) : Sondes multiparamètres
+- [**STM015 Biologie végétale marine**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/biologie-vegetale-marine-740368.kjsp?RF=1491308244111) [<img src="img/moodle-icon-1.png" style="height:20px;width:20px">](https://par.moodle.lecnam.net/course/view.php?id=5435) : 
+  + Plantes supérieures
+  + Macroalgues
+  + Microalgues
+  + Stratégies d'étude de l'estran
+
+- [**STM018 Géodésie - Cartographie - Traitement de données**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/geodesie-cartographie-traitement-des-donnees-740371.kjsp?RF=1491308244111) [<img src="img/moodle-icon-1.png" style="height:20px;width:20px">](https://par.moodle.lecnam.net/course/view.php?id=5438) : Traitement de données sous R
+- [**STM021 Recherche bibliographique**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/recherche-bibliographique-740374.kjsp?RF=1491308244111) [<img src="img/moodle-icon-1.png" style="height:20px;width:20px">](https://par.moodle.lecnam.net/course/view.php?id=5441) : 
+  + Technique de recherche bibliographique
+  + Les moteurs de recherche scientifiques
+
+
+#### **3ème Année**
+
+- [**PVR102 Production algues et invertébrés**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/productions-algues-et-invertebres-740346.kjsp?RF=1491308244111) : Macroalgoculture
+- [**GEM104 Outils de surveillance et analyses statistiques**](http://www.intechmer.cnam.fr/formations/catalogue-des-formations-de-l-intechmer/outils-de-surveillance-et-analyses-statistiques-740339.kjsp?RF=1491308244111) [<img src="img/moodle-icon-1.png" style="height:20px;width:20px">](https://par.moodle.lecnam.net/course/view.php?id=5401) : Statistiques et traitement de données
+
+
