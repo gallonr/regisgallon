@@ -6,7 +6,7 @@ github:
   Enseignement: 
   Recherche: 
   Publication:
-  G2Sd App : https://shiny.cnam.fr/G2Sd/
+  G2Sd App: https://shiny.cnam.fr/G2Sd/
 
 gems:
   - jekyll-seo-tag

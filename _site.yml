@@ -1,0 +1,24 @@
+name: "Régis GALLON"
+output_dir: "docs"
+navbar:
+  title: "Régis GALLON"
+  description : Maître de conférences (assistant professor) au Cnam/Intechmer
+  
+  left:
+    - text: "Enseignements"
+      href: enseignement.html
+    - text: "Recherches"
+      href: recherche.html
+    - text: "Publications"
+      href: publication.html
+  right:
+    - icon: fa-envelope
+      href: mailto:regis.gallon@lecnam.net
+    - icon: fa-github
+      href: https://github.com/gallonr/
+      
+output:
+  html_document:
+    theme: cosmo
+    df_print: kable
+    fig_caption: yes
