@@ -27,10 +27,13 @@ navbar:
       href: mailto:regis.gallon@lecnam.net
     - icon: fa-github
       href: https://github.com/gallonr/
-    - icon: fa-search
+    - icon: fa-graduation-cap
       href: https://www.researchgate.net/profile/Regis_Gallon2
       
 output:
   html_document:
     theme: paper
     df_print: kable
+    include:
+      after_body: footer.html
+    css : styles.css
