@@ -1,5 +1,17 @@
 ---
-title: "test"
+title: " "
 ---
 
-#Test
+<br>
+<br>
+La version `2.2` de G2Sd est disponible sur [github](https://github.com/gallonr/G2Sd).
+
+##### **Installation**
+
+```{r eval=FALSE, include=TRUE}
+devtools::install_github("gallonr/G2Sd")
+```
+
+##### **Utilisation**
+
+G2Sd a été développé de manière à décrire le sédiment à partir de tamis utilisant la nomenclature métrique ou phi.
