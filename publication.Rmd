@@ -1,5 +1,32 @@
 ---
-title: "test"
+title: ""
 ---
+<br>
+<br>
+<div class="w3-row">
+<div class="w3-col s6 w3-center">
+[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEJDh0j_5memg/company-logo_200_200/0?e=2159024400&v=beta&t=Aashv4k2VlGsuPr2ajuri0OepKq0N3DriAOrCbBm474" style="height:100px;width:100px;border-radius: 30%;" class="w3-center">](https://www.researchgate.net/profile/Regis_Gallon2)
+</div>
+<div class="w3-col s6 w3-center">
+[<img src="https://wwwfr.uni.lu/var/storage/images/media/images/scholar/1251264-1-fre-FR/scholar.png" style="height:120px;width:120px;" class="w3-center">](https://scholar.google.com/citations?hl=fr&user=4zGoQHsAAAAJ&view_op=list_works&gmla=AJsN-F4maCkSZ0X6ANP8wyK05P4VOxwWZ8FhnVuKRYvUeXzh2ai4ejHLps3eFwE7CtSPS5ng-DJd4ji6UFfz8ReyTyxB7vSP4_EdUPPgw6jl7o-OdXkDUaZCKkZUxyvAg7mHN-C4QELk80X3I8kKr5MyhUQVRZfEScnQjZAskXxccbtJv94A4uc)
+</div>
+</div>
 
-#Test
+9- Poirier, I., Benhaïm, D., Poizot, E., **Gallon, R. K.**, Cauvin, E., Lemarchand, A., Bertrand, M., Lelièvre, C., Murat, A., Benoit, F., Méar, Y. (2019). Marine aggregates in North Atlantic coast: Microbial characteristics and potential interactions with farmed Atlantic salmon (Salmo salar). *Marine Environmental Research*, *In Press*. [DOI : 10.1016/j.marenvres.2019.104864](https://doi.org/10.1016/j.marenvres.2019.104864)
+
+8- Poirier, I., Pallud, M., Kuhn, L., Hammann, P., Demortière, A., Jamali, A., Chicher, J., Caplat, C. **Gallon, R.K.**, Bertrand, M. (2018). Toxicological effects of CdSe nanocrystals on the marine diatom Phaeodactylum tricornutum: The first mass spectrometry-based proteomic approach. *Ecotoxicology and environmental safety*, 152, 78-90. [DOI : 10.1016/j.ecoenv.2018.01.043](https://doi.org/10.1016/j.ecoenv.2018.01.043)
+
+7- Leroy, B., **Gallon, R.K.**, Feunteun, E., Robuchon, M., Ysnel F. (2017). Cross-taxon congruence in the rarity of subtidal rocky marine assemblages: No taxonomic shortcut for conservation monitoring. *Ecological Indicators*, 77, 239–249. [DOI : 10.1016/j.ecolind.2017.02.012](https://doi.org/10.1016/j.ecolind.2017.02.012)
+
+6- **Gallon R.**, Lavesque N., Grall J., Labrune C., Gremare A., Bachelet G., Blanchet H., Bouchet V.M.P., Dauvin J-C., Desroy N., Gentil F., Guerin L.,Houbin L., Jourde J., Laurand S., Le Duff M., Le Garrec V., de Montaudouin X., Olivier F., Orvain F., Sauriau P-G., Thiebaut E., Gauthier O. (2017). Regional and latitudinal patterns of soft-bottom macrobenthic invertebrates along French coasts: Results from the RESOMAR database. *Journal of Sea Research*, 130, 96-106. [DOI : 10.1016/j.seares.2017.03.011](https://doi.org/10.1016/j.seares.2017.03.011)
+
+5- Le Croizier, G., Schaal, G., **Gallon, R.k. **, Fall, M., Le Grand, F., Munaron, J. M., Rouget, M.L., Machu, E., Le Loc'h, F., Laë, R., De Morais, L. T. (2016). Trophic ecology influence on metal bioaccumulation in marine fish: Inference from stable isotope and fatty acid analyses. *Science of the Total Environment*, 573, 83-95. [DOI : 10.1016/j.scitotenv.2016.08.035](https://doi.org/10.1016/j.scitotenv.2016.08.035)
+
+4- **Gallon, R.K.**, Robuchon, M., Leroy, B., Le Gall, L., Valero, M., Feunteun, E. (2013). Observed and predicted distributional shifts of subtidal red seaweeds along a biogeographical transition zone in the context of global change.  *Journal of Biogeography*, 41, 2293-2306. [DOI :  10.1111/jbi.12380](https://doi.org/10.1111/jbi.12380)
+
+3- Fournier J., **Gallon R.** (2014). G2Sd: a new R package for the statistical analysis of unconsolidated sediments. *Géomorphologie : relief, processus, environnement*, 20-1, 73-78. [DOI : 10.4000/geomorphologie.10513](https://doi.org/10.4000/geomorphologie.10513)
+
+2- **Gallon, R.K.**, Ysnel, F., Feunteun, E., (2013). Optimization of an *in situ* subtidal rocky-shore sampling strategy for monitoring purposes. *Marine Pollution Bulletin*, 74-1, 253-263. [DOI : 10.1016/j.marpolbul.2013.06.049](https://doi.org/10.1016/j.marpolbul.2013.06.049) 
+
+1- Leroy, B., Pétillon, J., **Gallon, R.K.**, Canard, A., Ysnel, F. (2012). Improving occurrence-based rarity metrics in conservation studies by including multiple rarity cut-offs. *Insect Conservation and Diversity*, 5, 159-168. [DOI : 10.1111/j.1752-4598.2011.00148.x](https://doi.org/10.1111/j.1752-4598.2011.00148.x)
+
