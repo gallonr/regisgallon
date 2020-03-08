@@ -1,5 +1,29 @@
 ---
-title: "test"
+title: ""
 ---
+<br>
+<br>
 
-#Test
+## Thématiques de recherches
+<br>
+- Étude des patrons de diversité des macroalgues à différentes échelles de temps et d’espace.
+- Étude des fonctions écosystémiques associés aux habitats macroalgaux et comment ces fonctions sont impactés par le changement global induit par l'homme
+- Évaluation des impacts des activités récréatives (principalement la pêche à pieds) sur les écosystèmes côtiers
+
+<br>
+
+
+## Projets financés
+<br>
+
+- **TURBISANT** (2015) : TURBIdité de l'eau comme marqueur de la SANTé des poissons en élevage
+
+- **NANOIMPACT** (2016, *Conseil Départemental de la Manche*) : Impact des nanoparticules sur le milieu marin -- PI : Régis Gallon
+
+- **Tatihou** (2019, *ROLNP*) : Etudes environnementales archéologiques et contemporaines de l'estuaire de la Saire à l'Île de Tatihou -- PI : Gwendoline Grégoire
+
+- **REHAB** (2019-2021, *FEAMP DLAL Normandie*) : Expérimentations autour de la réhabilitation de claires pour une diversifiaction des productions -- PIs : Sébastien Pien (SMEL) & Régis Gallon
+
+- **[OBADE](https://gallonr.github.io/OBADE_R/)** (2019-2021, *MTES*) : Outils d'Analyses pour la BAse de Données ESTAMP -- PIs : Aurélie Garcia (GEMEL-Normandie) & Régis Gallon
+
+- **ETISiESTA** (2020, *Conseil Départemental de la Manche*) : ETude Intégrée du Si atelier de l'Estuaire de la Saire à l'île de TAtihou -- PI : Florian Cesbron
