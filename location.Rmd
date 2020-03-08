@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+<br>
+<br>
+
+<div class="w3-row">
+  <div class="w3-col s8 w3-center">
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+require(ggmap)
+intechmer <- c(lat=49.655348,long=-1.569050)
+intechmer_map <- get_map(location=intechmer,zoom=16,maptype = "roadmap")
+ggmap(intechmer_map)+geom_point(aes(x=-1.569050,y=49.655348),size=2.5,color="red")+
+xlab("Longitude")+ylab("Latitude")
+```
+  </div>
+  <div class="w3-col s4 ">
+  <div class="w3-card-4">
+
+<header class="w3-container">
+    <img src="https://www.salon-azimut.com/wp-content/uploads/2020/01/cnam.jpg" style="width:170px;" class="w3-center">
+</header>
+<div class="w3-container">
+  <p><i class="fa fa-home"></i> Boulevard Collignon <br>
+  50110 Cherbourg En Cotentin</p>
+  <p><i class="fa fa-phone-volume"> </i> 02 33 88 73 48</p>
+  <p><i class="fa fa-at"> </i> regis.gallon[@]lecnam.net</p>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
