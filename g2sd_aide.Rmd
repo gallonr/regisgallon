@@ -15,3 +15,60 @@ devtools::install_github("gallonr/G2Sd")
 ##### **Utilisation**
 
 G2Sd a été développé de manière à décrire le sédiment à partir de tamis utilisant la nomenclature métrique ou phi.
+
+###### **Mise en forme**
+
+Cette matrice doit comporter en colonne les stations échantillonnées et en ligne les ouvertures de tamis (microns ou phi)
+
+```{r message=FALSE, warning=FALSE}
+require(G2Sd)
+data(granulo)
+granulo[,1:17]
+```
+
+###### **Utilisation de `granstat()`**
+
+
+Cette fonction est le cœur de calcul pour définir les caractéristiques des sédiments. Elle intègre trois statistiques descriptives : 
+
+- Méthodes arithmétiques  
+- Méthodes des moments  
+- Méthodes de Folk et Ward (1957)  
+
+Pour les détails des modes de calcul et l’interprétation des indices se référer à  [Fournier et al. (2012)](biblio/anagra.pdf).
+
+Le resultat de la fonction `granstat()`est une liste comportant les éléments suivants :
+
+- `$stat`: contient le ou les tableaux des statistiques descriptives
+- `$index`: tableau regroupant les différents indices : D5,D10,D16,...
+- `$sedim`: Description du ou des sédiments
+
+```{r message=FALSE, warning=FALSE}
+granstat(granulo)
+```
+
+###### **Utilisation de `granplot()`**
+
+La fonction `granplot()` permet de visualiser la distribution des sédiments.
+
+***La représentation d'une SEULE station***
+
+```{r}
+granplot(granulo,xc=1)
+```
+
+***La représentation de PLUSIEURS stations***
+
+```{r}
+granplot(granulo,xc=1:4)
+```
+
+###### **Utilisation de `grandistrib()`**
+
+La fonction `grandistrib()` permet de visualiser la composition du sédiment. Deux échelles peuvent être choisies :
+
+```{r}
+ grandistrib(granulo[,1:6],scale="fine")
+ grandistrib(granulo[,1:6],scale="large")
+```
+
