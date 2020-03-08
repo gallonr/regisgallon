@@ -23,6 +23,8 @@ navbar:
         - text: "Shiny"
           href: https://shiny.cnam.fr/G2Sd/
   right:
+    - icon: fa-map-marker-alt
+      href: location.html
     - icon: fa-envelope
       href: mailto:regis.gallon@lecnam.net
     - icon: fa-github
@@ -36,4 +38,5 @@ output:
     df_print: kable
     include:
       after_body: footer.html
+      in_header: GA_script.html
     css : styles.css
